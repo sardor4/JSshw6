@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.triangle {
+    width:max-content;
+    padding: 10px;
+    font-size: 30px;
+    margin: 0 auto;
+    color: #111;
+    letter-spacing: 15px;
+}
+.triangle-rev {
+    width:max-content;
+    padding: 10px;
+    font-size: 30px;
+    margin: 0 auto;
+    color: #3A42BD;
+    letter-spacing: 15px;
+}
+.square {
+    width:max-content;
+    padding: 10px;
+    font-size: 30px;
+    margin: 0 auto;
+    color: #880014;
+    letter-spacing: 17px;
+}
